@@ -11,6 +11,9 @@
 ```
   git clone https://github.com/AndresLie/RaspiForecastBot.git
 ```
+2. Install all the dependencies on requirements.txt
+3. For the efficient net fot Hotword detector kindly check the [EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net/tree/main) documentation
+   
 ## In Raspberry Pi
 1. Move the server file to your Raspberry Pi and move in to the server directory
    ```
@@ -20,6 +23,7 @@
    ```
    python main.py
    ```
+
 
 ## In Server( Computer)
 1. Move to server directory
