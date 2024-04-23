@@ -27,4 +27,6 @@
    ```
    python server.py
    ```
+
+After That speak the wakeword "Mobile" and ask for questions(Preferable weather related)
    
