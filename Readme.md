@@ -1,4 +1,7 @@
 # RaspiForecastBot
+## Demo
+[Demo Video](https://drive.google.com/file/d/1gRndNQ9E7TrvrBrbEqhiwrrXLRA04zXJ/view?usp=sharing)
+
 ### This Project is Tested and Run on Raspberry Pi 3
 ## Required Equipment
 1. Raspberry Pi 3 or Newer
@@ -34,6 +37,6 @@
 
 After That speak the wakeword "Mobile" and ask for questions(Preferable weather related)
 
-[Example Video](https://drive.google.com/file/d/1kAkMAnLWwJibSDhBwFyJc74JZK0Yws7h/view?usp=drive_link)
+
 ### Process Flow
 ![Beige Colorful Minimal Flowchart Infographic Graph](https://github.com/AndresLie/RaspiForecastBot/assets/119865728/dc5a7e26-781e-4e78-8e65-fe1b90a35baf=100x10)
